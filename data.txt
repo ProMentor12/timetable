@@ -1,0 +1,2475 @@
+
+Teacher: SHUBH LATA
+SHB
+Period 1: Free Period
+Period 2: Free Period
+Period 3: IX B Monday-Saturday MT
+(FF - Thursday9)
+Period 4: VIII A Monday-Saturday MT
+(FF - WednesdayWednesday)
+Period 5: VIII A Monday-Wednesday MT
+(FF - WednesdayWednesday)
+Period 6: VIII B Monday-Saturday MT
+(FF - WednesdayThursday)
+Period 7: VIII B Thursday-Saturday MT
+(FF - WednesdayThursday)
+Period 8: Free Period
+Period 9: Free Period
+
+Timetable for SHUBH LATA
+SHB:
+
+Teacher: RAJNI BANSAL
+RJB
+Period 1: XII C,E Monday-Saturday MT
+(FF - ThursdayWednesday)
+Period 2: XII C,E Monday-Saturday MT
+(FF - ThursdayWednesday)
+Period 3: Free Period
+Period 4: X B Monday-Saturday MT
+(GF - Thursday)
+Period 5: X D Monday-Saturday MT
+(GF - Friday)
+Period 6: XI C,E Monday-Saturday MT
+(FF - Wednesday7)
+Period 7: XI C,E Monday-Saturday MT
+(FF - Wednesday7)
+Period 8: Free Period
+Period 9: X D Monday-Wednesday MT
+(GF - Friday)
+X B Thursday-Saturday MT
+(GF - Thursday)
+
+Timetable for RAJNI BANSAL
+RJB:
+
+Teacher: NAVGEET
+NVG
+Period 1: X A Monday-Saturday MT
+(GF - Wednesday)
+Period 2: Free Period
+Period 3: XII A,B Monday-Saturday MT
+(FF - WednesdaySaturday,Wednesday9)
+Period 4: VII A Monday-Wednesday
+(SF - WednesdayWednesday)
+Period 5: X C Thursday-Saturday MT
+(GF - ThursdayFriday)
+Period 6: X C Monday-Saturday MT
+(GF - ThursdayFriday)
+Period 7: XI G,H Monday-Saturday MT
+(FF - 7Wednesday)
+Period 8: XI G,H Monday-Saturday MT
+(FF - 7Wednesday)
+Period 9: X A Monday-Wednesday MT
+(GF - Wednesday)
+
+Timetable for NAVGEET
+NVG:
+
+Teacher: TARANJIT
+TRN
+Period 1: XI A,I Monday-Saturday MT
+(FF - ThursdaySaturday)
+Period 2: Free Period
+Period 3: XII G,H Monday-Saturday MT
+(FF - SaturdaySaturday)
+Period 4: XII G,H Monday-Saturday MT
+(FF - SaturdaySaturday)
+Period 5: X E Monday-Saturday MT
+(GF - Saturday)
+Period 6: XII F Monday-Saturday MT
+(FF - SaturdayThursday)
+Period 7: XII F Monday-Saturday MT
+(FF - SaturdayThursday)
+Period 8: Free Period
+Period 9: X E Monday-Wednesday MT
+(GF - Saturday)
+
+Timetable for TARANJIT
+TRN:
+
+Teacher: HARPREET KAUR
+HRP
+Period 1: VII E Monday-Saturday MT
+(SF - MondayTuesday9)
+Period 2: IX D Monday-Saturday MT
+(SF - 77)
+Period 3: VIII E Monday-Wednesday MT
+(SF - 7Friday)
+Period 4: Free Period
+Period 5: VII B Monday-Saturday MT
+(FF - MondayTuesdayMonday)
+Period 6: VIII E Monday-Saturday MT
+(SF - 7Friday)
+Period 7: IX E Monday-Saturday MT
+(SF - 78)
+Period 8: Free Period
+Period 9: VI A Monday-Saturday MT
+(SF - MondayMonday7)
+
+Timetable for HARPREET KAUR
+HRP:
+
+Teacher: SHEETAL
+SHT
+Period 1: VII A Monday-Saturday MT
+(SF - MondayTuesday0)
+Period 2: Free Period
+Period 3: VII D Monday-Saturday MT
+(SF - MondayTuesday8)
+Period 4: IX F Monday-Saturday MT
+(SF - 79)
+Period 5: VI B Monday-Saturday MT
+(SF - MondayMonday8)
+Period 6: Free Period
+Period 7: VIII F Monday-Saturday MT
+(SF - 7Saturday)
+Period 8: VIII F Wednesday,Thursday,Saturday MT
+(SF - 7Saturday)
+Period 9: VI E Monday-Saturday MT
+(SF - MondayTuesdaySaturday)
+
+Timetable for SHEETAL
+SHT:
+
+Teacher: SIMRAN
+SIM
+Period 1: VIII D Monday-Saturday MT
+(SF - 7Thursday)
+Period 2: IX A Monday-Saturday MT
+(FF - Thursday7)
+Period 3: X F Monday-Saturday MT
+(GF - 7)
+Period 4: Free Period
+Period 5: XI F Monday-Saturday MT
+(SF - 70)
+Period 6: XI F Monday-Saturday MT
+(SF - 70)
+Period 7: Free Period
+Period 8: XII I,J Monday-Saturday MT
+(SF - Saturday8)
+Period 9: VIII D Monday-Wednesday MT
+(SF - 7Thursday)
+X F Thursday-Saturday MT
+(GF - 7)
+
+Timetable for SIMRAN
+SIM:
+
+Teacher: SUMAN AHUJA
+SUM
+Period 1: IX C Monday-Wednesday MT
+(FF - Thursday8)
+Period 2: VII F Monday-Saturday MT
+(SF - MondayWednesday0)
+Period 3: VIII C Monday-Wednesday MT
+(FF - WednesdayFriday)
+Period 4: IX C Thursday-Saturday MT
+(FF - Thursday8)
+Period 5: VII C Monday-Saturday MT
+(FF - MondayTuesdayTuesday)
+Period 6: VI C Monday-Saturday MT
+(SF - MondayMonday9)
+Period 7: VIII C Monday-Saturday MT
+(FF - WednesdayFriday)
+Period 8: Free Period
+Period 9: VI F Monday-Saturday MT
+(SF - MondayTuesdayFriday)
+
+Timetable for SUMAN AHUJA
+SUM:
+
+Teacher: GURINDER KAUR
+GUR
+Period 1: V B Monday-Saturday MT
+(SF - Monday0Saturday)
+Period 2: V A Monday-Saturday MT
+(SF - Monday07)
+Period 3: III C Monday-Saturday MT
+(FF - Friday9)
+Period 4: V B Friday
+(SF - Monday0Saturday)
+IV A Tuesday
+(SF - Monday0Monday)
+Period 5: V A Monday MT
+(SF - Monday07)
+IV B Thursday MT
+(SF - Monday00)
+V D Saturday MT
+(SF - Monday0Thursday)
+Period 6: IV B Monday-Saturday MT
+(SF - Monday00)
+Period 7: V D Monday-Saturday MT
+(SF - Monday0Thursday)
+Period 8: Free Period
+Period 9: V B Tuesday MT
+(SF - Monday0Saturday)
+III C Wednesday MT
+(FF - Friday9)
+IV A Thursday,Friday DV
+(SF - Monday0Monday)
+
+Timetable for GURINDER KAUR
+GUR:
+
+Teacher: PUNAM SHARMA
+PUN
+Period 1: IV D Monday-Saturday MT
+(FF - FridayThursday)
+Period 2: IV C Wednesday,Thursday GK
+(FF - FridaySaturday)
+Period 3: V C Monday-Saturday MT
+(SF - Monday0Friday)
+Period 4: IV A Friday,Saturday
+(SF - Monday0Monday)
+Period 5: III E Monday-Saturday MT
+(FF - SaturdayMonday)
+Period 6: IV C Monday-Saturday MT
+(FF - FridaySaturday)
+Period 7: V C Monday MT
+IV C Tuesday MT
+III A Wednesday MT
+III E Thursday MT
+IV D Saturday MT
+Period 8: Free Period
+Period 9: III A Monday-Saturday MT
+(FF - Friday7)
+
+Timetable for PUNAM SHARMA
+PUN:
+
+Teacher: AMAN SHARMA
+AMS
+Period 1: V F Monday MT
+V E Tuesday MT
+IV A Wednesday MT
+III B Saturday MT
+Period 2: V E Monday-Saturday MT
+(SF - Monday0Wednesday)
+Period 3: III B Monday-Saturday MT
+(FF - Friday8)
+Period 4: Free Period
+Period 5: V B Monday,Tuesday GK
+(SF - Monday0Saturday)
+VIII E Thursday-Saturday
+(SF - 7Friday)
+Period 6: IV A Monday-Saturday MT
+(SF - Monday0Monday)
+Period 7: V F Monday-Saturday MT
+(SF - Monday0Tuesday)
+Period 8: VI D Monday-Saturday MT
+(SF - MondayTuesday7)
+Period 9: Free Period
+
+Timetable for AMAN SHARMA
+AMS:
+
+Teacher: MANINDER
+MNR
+Period 1: XI D Monday-Saturday ENG
+(FF - Wednesday8)
+Period 2: XII H Monday-Saturday G.ENG
+(SF - SaturdaySaturday)
+Period 3: IX A Thursday-Saturday ENG
+(FF - Thursday7)
+Period 4: XII B Monday-Saturday ENG
+(FF - Wednesday9)
+Period 5: Free Period
+Period 6: XI I Monday-Saturday ENG
+(SF - 7Tuesday)
+Period 7: X A Monday-Saturday ENG
+(GF - Wednesday)
+Period 8: IX A Monday-Wednesday ENG
+(FF - Thursday7)
+Period 9: X A Thursday-Saturday ENG
+(GF - Wednesday)
+
+Timetable for MANINDER
+MNR:
+
+Teacher: NEHA ARORA
+NHA
+Period 1: Free Period
+Period 2: X D Monday-Saturday ENG
+(GF - Friday)
+Period 3: VIII D Monday-Saturday ENG
+(SF - 7Thursday)
+Period 4: XI F Monday-Saturday ENG
+(SF - 70)
+Period 5: Free Period
+Period 6: XII J Monday-Saturday ENG
+(SF - Saturday8)
+Period 7: X D Tuesday,Friday,Saturday ENG
+(GF - Friday)
+Period 8: XII G Monday-Saturday ENG
+(SF - SaturdayFriday)
+Period 9: XI C Monday-Saturday G.ENG
+(FF - ThursdayMonday)
+
+Timetable for NEHA ARORA
+NHA:
+
+Teacher: POOJA MODGIL
+PUJ
+Period 1: X B Monday-Saturday ENG
+(GF - Thursday)
+Period 2: Free Period
+Period 3: XII D Monday-Friday ENG
+(FF - Thursday0)
+Period 4: XII A Monday-Saturday ENG
+(FF - WednesdaySaturday)
+Period 5: Free Period
+Period 6: XII C,H Monday-Saturday E.ENG
+(SF -  ROOM)
+Period 7: XII E Monday-Saturday ENG
+(FF - ThursdayWednesday)
+Period 8: XI E Monday-Saturday ENG
+(FF - Wednesday7)
+Period 9: X B Monday-Wednesday ENG
+(GF - Thursday)
+XII D Saturday ENG
+(FF - Thursday0)
+
+Timetable for POOJA MODGIL
+PUJ:
+
+Teacher: ANURADHA
+ANR
+Period 1: VI D Monday-Saturday ENG
+(SF - MondayTuesday7)
+Period 2: VII E Monday-Saturday ENG
+(SF - MondayTuesday9)
+Period 3: VIII A Monday-Saturday ENG
+(FF - WednesdayWednesday)
+Period 4: Free Period
+Period 5: VIII B Monday-Wednesday
+(FF - WednesdayThursday)
+Period 6: VIII F Monday-Saturday ENG
+(SF - 7Saturday)
+Period 7: VII B Monday-Friday ENG
+(FF - MondayTuesdayMonday)
+Period 8: VII B Saturday ENG
+(FF - MondayTuesdayMonday)
+Period 9: VI C Monday-Saturday ENG
+(SF - MondayMonday9)
+
+Timetable for ANURADHA
+ANR:
+
+Teacher: SUKHWINDER
+SKW
+Period 1: XII I Monday-Saturday ENG
+(SF - Saturday7)
+Period 2: Free Period
+Period 3: XII C Monday-Saturday G.ENG
+(FF - ThursdayTuesday)
+Period 4: XI A Monday-Saturday ENG
+(FF - ThursdaySaturday)
+Period 5: XI C,H Monday-Saturday E.ENG
+(SF -  ROOM)
+Period 6: Free Period
+Period 7: X C Monday-Saturday ENG
+(FF - Thursday7)
+Period 8: XII F Monday-Saturday ENG
+(SF - SaturdayThursday)
+Period 9: X C Thursday-Saturday ENG
+(FF - Thursday7)
+
+Timetable for SUKHWINDER
+SKW:
+
+Teacher: TINA
+TNA
+Period 1: Free Period
+Period 2: X E Monday-Saturday ENG
+(GF - Saturday)
+Period 3: XI H Monday-Saturday G.ENG
+(SF - 7Wednesday)
+Period 4: VII A Thursday-Saturday
+(SF - MondayTuesday0)
+Period 5: Free Period
+Period 6: IX C Monday-Saturday ENG
+(FF - Thursday8)
+Period 7: X F Monday-Saturday ENG
+(GF - 7)
+Period 8: X F Monday-Wednesday ENG
+(GF - 7)
+X E Thursday-Saturday ENG
+(GF - Saturday)
+Period 9: XI G Monday-Saturday ENG
+(SF - 7Monday)
+
+Timetable for TINA
+TNA:
+
+Teacher: NANDINI
+NND
+Period 1: VI A Monday-Saturday ENG
+(FF - MondayMonday7)
+Period 2: IX B Monday-Saturday ENG
+(FF - Thursday9)
+Period 3: Free Period
+Period 4: VIII B Monday-Saturday ENG
+(FF - WednesdayThursday)
+Period 5: IX D Friday,Saturday
+(SF - 77)
+Period 6: IX F Monday-Saturday ENG
+(SF - 79)
+Period 7: IV D Monday ENG
+(FF - FridayThursday)
+Period 8: IV D Monday-Saturday ENG
+(FF - FridayThursday)
+Period 9: VII C Monday-Saturday ENG
+(SF - MondayTuesdayTuesday)
+
+Timetable for NANDINI
+NND:
+
+Teacher: ASHPREET
+ASH
+Period 1: VIII E Tuesday ENG
+(SF - 7Friday)
+Period 2: VI F Monday-Saturday ENG
+(SF - MondayTuesdayFriday)
+Period 3: XII A,I Monday-Saturday (V)
+( ROOM)
+Period 4: IV E Tuesday
+(FF - FridayWednesday)
+VIII E Monday,Wednesday-Saturday ENG
+(SF - 7Friday)
+Period 5: Free Period
+Period 6: VII A Monday,Wednesday-Saturday ENG
+(SF - MondayTuesday0)
+Period 7: IX D Monday-Saturday ENG
+(SF - 77)
+Period 8: VII A Tuesday ENG
+(SF - MondayTuesday0)
+Period 9: VII D Monday-Saturday ENG
+(SF -MondayTuesday8)
+
+Timetable for ASHPREET
+ASH:
+
+Teacher: SUKHLEEN
+SKH
+(LANGUAGE LAB)
+Period 1: IX A Thursday
+XII J
+Period 2: VII C Monday
+VII D Thursday
+XII H
+Period 3: IX F Tuesday
+IX D Wednesday
+IX C Thursday
+XII C Friday
+XII D
+Period 4: XI D Monday
+IX B Wednesday
+VIII D
+Period 5: VII E Monday
+VII F Wednesday
+X A Thursday
+XI A Tuesday
+VIII C
+Period 6: XII I Monday
+VII A Tuesday
+X F Wednesday
+X B Thursday
+XI G Friday
+IX E
+Period 7: VIII E Monday
+VIII B Tuesday
+XI I Wednesday
+X D Thursday
+XI H Friday
+VII B
+Period 8: XII B Monday
+VIII F Tuesday
+X E Wednesday
+X C Thursday
+XII E Friday
+XII A
+Period 9: XII F Tuesday
+XII G Monday
+XI E Wednesday
+XI F Thursday
+VIII A Friday
+XI C
+
+Timetable for SUKHLEEN
+SKH
+(LANGUAGE LAB):
+
+Teacher: SONAM
+SNM
+Period 1: VIII C Monday-Saturday ENG
+(FF - WednesdayFriday)
+Period 2: IX E Monday-Saturday ENG
+(SF - 78)
+Period 3: V F Monday ENG
+(SF - Monday0Tuesday)
+Period 4: VII F Wednesday,Saturday
+(SF - MondayWednesday0)
+Period 5: VI E Monday-Saturday ENG
+(SF - MondayTuesdaySaturday)
+Period 6: V F Monday-Saturday ENG
+(SF - Monday0Tuesday)
+Period 7: VI B Monday-Saturday ENG
+(FF - MondayMonday8)
+Period 8: VII F Monday-Saturday ENG
+(SF - MondayWednesday0)
+Period 9: Free Period
+
+Timetable for SONAM
+SNM:
+
+Teacher: POONAM TIWARI
+PNM
+Period 1: III E Monday-Saturday ENG
+(FF - SaturdayMonday)
+Period 2: IV E Monday-Saturday ENG
+(FF - FridayWednesday)
+Period 3: IV B Monday-Saturday ENG
+(SF - Monday00)
+Period 4: VII B Monday,Tuesday,Friday
+(SF - MondayTuesdayMonday)
+IV B Saturday
+(SF - Monday00)
+Period 5: Free Period
+Period 6: V D Monday-Saturday ENG
+(SF - Monday0Thursday)
+Period 7: III B Monday-Saturday ENG
+(FF - Friday8)
+Period 8: Free Period
+Period 9: IV E Saturday ENG
+III B Tuesday ENG
+V D Thursday ENG
+IV B Monday ENG
+III E Wednesday ENG
+
+Timetable for POONAM TIWARI
+PNM:
+
+Teacher: MANDEEP KAUR
+MDP
+Period 1: III F Monday-Saturday ENG
+(FF - SaturdayTuesday)
+Period 2: Free Period
+Period 3: IV A Monday-Saturday ENG
+(SF - Monday0Monday)
+Period 4: V C Monday-Thursday
+(SF - Monday0Friday)
+Period 5: III C Monday-Saturday ENG
+(FF-Friday9)
+Period 6: V B Monday-Saturday ENG
+(SF-Monday0Saturday)
+Period 7: Free Period
+Period 8: V E Monday-Saturday ENG
+(SF -Monday0Wednesday)
+Period 9: IV A Saturday ENG
+III C Tuesday ENG
+V B Thursday ENG
+III F Wednesday ENG
+V E Friday ENG
+
+Timetable for MANDEEP KAUR
+MDP:
+
+Teacher: SHERRY PURI
+SHY
+Period 1: V C Monday-Saturday ENG
+(SF-Monday0Friday)
+Period 2: III A Monday-Saturday ENG
+(FF-Friday7)
+Period 3: III D Monday-Saturday ENG
+(FF-Saturday0)
+Period 4: V E Thursday
+(SF-Monday0Wednesday)
+Period 5: V C Monday ENG
+V A Tuesday ENG
+IV C Wednesday ENG
+III A Saturday ENG
+VIII C
+Period 6: V A Monday-Saturday ENG
+(SF-Monday07)
+Period 7: Free Period
+Period 8: IV C Monday-Saturday ENG
+(FF-FridaySaturday)
+Period 9: III D Monday ENG
+(FF-Saturday0)
+VIII D Thursday,Saturday GK
+(SF-7Thursday)
+
+Timetable for SHERRY PURI
+SHY:
+
+Teacher: MANJIT KAUR
+MJT
+Period 1: Free Period
+Period 2: X C Monday-Saturday PBI
+(FF-ThursdayFriday)
+Period 3: XII F Monday-Saturday PBI
+(SF-SaturdayThursday)
+Period 4: VII B Wednesday,Thursday,Saturday
+(SF-MondayTuesdayMonday)
+Period 5: X B Monday-Saturday PBI
+(GF - Thursday)
+Period 6: Free Period
+Period 7: XI D Monday-Saturday PBI
+(FF-Wednesday8)
+Period 8: IX C Monday-Saturday PBI
+(FF-Thursday8)
+Period 9: XII H Monday-Saturday PBI
+(SF-SaturdaySaturday)
+
+Timetable for MANJIT KAUR
+MJT:
+
+Teacher: MANPREET KAUR
+MNP
+Period 1: Free Period
+Period 2: X A Monday-Saturday PBI
+(GF-Wednesday)
+Period 3: XI F Monday-Saturday PBI
+(SF-70)
+Period 4: VII C Thursday-Saturday
+(SF-MondayTuesdayTuesday)
+Period 5: XII I Monday-Saturday PBI
+(SF-Saturday7)
+Period 6: Free Period
+Period 7: XII J Monday-Saturday PBI
+(SF-Saturday8)
+Period 8: XI C Monday-Saturday PBI
+(FF-ThursdayMonday)
+Period 9: XII C Monday-Saturday PBI
+(FF-ThursdayTuesday)
+
+Timetable for MANPREET KAUR
+MNP:
+
+Teacher: SANPREET
+SAN
+Period 1: IX D Monday-Saturday PBI
+(SF-77)
+Period 2: Free Period
+Period 3: X D Thursday-Saturday PBI
+(GF-Friday)
+Period 4: X D Monday-Wednesday PBI
+(GF-Friday)
+V F Thursday-Saturday
+(SF-Monday0Tuesday)
+Period 5: XII G Monday-Saturday PBI
+(SF-SaturdayFriday)
+Period 6: XI H Monday-Saturday PBI
+(SF-7Wednesday)
+Period 7: Free Period
+Period 8: VIII E Monday-Saturday PBI
+(SF-7Friday)
+Period 9: XII E Monday-Saturday PBI
+(FF-ThursdayWednesday)
+
+Timetable for SANPREET
+SAN:
+
+Teacher: RAJNI SHARMA
+RJS
+Period 1: IX B Monday-Saturday PBI
+(FF-Thursday9)
+Period 2: Free Period
+Period 3: XI G Monday-Saturday PBI
+(SF-7Monday)
+Period 4: IX A Monday-Saturday PBI
+(FF-Thursday7)
+Period 5: IX B Wednesday,Thursday
+(FF-Thursday9)
+IX D Tuesday
+(SF-77)
+Period 6: VII C Monday-Saturday PBI
+(SF-MondayTuesdayTuesday)
+Period 7: VIII A Monday-Saturday PBI
+(FF-WednesdayWednesday)
+Period 8: Free Period
+Period 9: XII B Monday-Saturday PBI
+(FF-Wednesday9)
+
+Timetable for RAJNI SHARMA
+RJS:
+
+Teacher: AMANDEEP KAUR
+AMN
+Period 1: VI B Monday-Saturday PBI
+(FF-MondayMonday8)
+Period 2: IX F Monday-Saturday PBI
+(SF-79)
+Period 3: VIII B Monday-Saturday PBI
+(FF-WednesdayThursday)
+Period 4: VI F Wednesday,Thursday PBI
+(SF-MondayTuesdayFriday)
+Period 5: IX F Monday-Wednesday
+(SF-79)
+Period 6: VI F Monday,Tuesday,Friday,Saturday PBI
+(SF-MondayTuesdayFriday)
+Period 7: Free Period
+Period 8: XII I,J Monday-Saturday (V)
+(SF-Saturday8)
+Period 9: VII E Monday-Saturday PBI
+(SF-MondayTuesday9)
+
+Timetable for AMANDEEP KAUR
+AMN:
+
+Teacher: LAKHVIR
+LKV
+Period 1: V E Monday PBI
+(SF-Monday0Wednesday)
+Period 2: VIII C Monday-Saturday PBI
+(FF-WednesdayFriday)
+Period 3: V E Monday-Saturday PBI
+(SF-Monday0Wednesday)
+Period 4: V E Friday,Saturday
+(SF-Monday0Wednesday)
+Period 5: VI C Monday-Saturday PBI
+(FF-MondayMonday9)
+Period 6: VI D Monday-Saturday PBI
+(SF-MondayTuesday7)
+Period 7: VII A Monday-Saturday PBI
+(SF-MondayTuesday0)
+Period 8: Free Period
+Period 9: VII F Monday-Saturday PBI
+(SF-MondayWednesday0)
+
+Timetable for LAKHVIR
+LKV:
+
+Teacher: DIVJOT
+DVJ
+Period 1: XI A,I Monday-Saturday (V)
+(SF-7Tuesday)
+Period 2: VI E Monday-Saturday PBI
+(SF-MondayTuesdaySaturday)
+Period 3: Free Period
+Period 4: VI A Monday-Saturday PBI
+(FF-MondayMonday7)
+Period 5: VIII D Thursday-Saturday
+(SF-7Thursday)
+Period 6: VII B Monday-Saturday PBI
+(SF-MondayTuesdayMonday)
+Period 7: VIII D Monday-Saturday PBI
+(SF-7Thursday)
+Period 8: Free Period
+Period 9: XI A Monday-Saturday PBI
+(FF-ThursdaySaturday)
+
+Timetable for DIVJOT
+DVJ:
+
+Teacher: JASWINDER
+JSW
+Period 1: VIII B Monday-Saturday SST
+(FF-WednesdayThursday)
+Period 2: Free Period
+Period 3: Free Period
+Period 4: X E Monday-Saturday PBI
+(GF-Saturday)
+Period 5: XI E Monday-Saturday PBI
+(FF-Wednesday7)
+Period 6: VIII A Monday-Saturday SST
+(FF-WednesdayWednesday)
+Period 7: XII A Monday-Saturday PBI
+(FF-WednesdaySaturday)
+Period 8: VIII C Monday-Saturday SST
+(FF-WednesdayFriday)
+Period 9: Free Period
+
+Timetable for JASWINDER
+JSW:
+
+Teacher: AMANDEEP
+AMAN (NEW)
+Period 1: IX E Monday-Saturday PBI
+(SF-78)
+Period 2: VIII F Monday-Saturday PBI
+(SF-7Saturday)
+Period 3: Free Period
+Period 4: VII D Tuesday,Wednesday,Friday
+(SF-MondayTuesday8)
+Period 5: X F Monday-Saturday PBI
+(GF-7)
+Period 6: VII D Monday-Saturday PBI
+(SF-MondayTuesday8)
+Period 7: Free Period
+Period 8: XII D Monday-Saturday PBI
+(FF-Thursday0)
+Period 9: XI I Monday-Saturday PBI
+(SF-7Tuesday)
+
+Timetable for AMANDEEP
+AMAN (NEW):
+
+Teacher: NAVDEEP KAUR
+NVD
+Period 1: IV C Monday-Saturday PBI
+(FF-FridaySaturday)
+Period 2: IV A Monday-Saturday PBI
+(SF-MondayMonday7)
+Period 3: V F Tuesday PBI
+(SF-Monday0Tuesday)
+VI B Wednesday-Saturday
+(FF-MondayMonday8)
+Period 4: Free Period
+Period 5: III B Tuesday PBI
+V C Wednesday PBI
+IV C Thursday PBI
+IV A Friday PBI
+Period 6: V C Monday-Saturday PBI
+(SF-Monday0Friday)
+Period 7: Free Period
+Period 8: III B Monday-Saturday PBI
+(FF-Friday8)
+Period 9: V F Monday-Saturday PBI
+(SF-Monday0Tuesday)
+
+Timetable for NAVDEEP KAUR
+NVD:
+
+Teacher: EKTA KAPLISH
+EKT
+Period 1: Free Period
+Period 2: IV B Monday-Saturday PBI
+(SF-Monday00)
+Period 3: V B Monday-Saturday PBI
+(SF-Monday0Saturday)
+Period 4: V B Saturday
+V D Monday,Friday
+IV C
+Period 5: IV D Monday-Saturday PBI
+(FF-FridayThursday)
+Period 6: III C Monday-Saturday PBI
+(FF-Friday9)
+Period 7: Free Period
+Period 8: V D Monday-Saturday PBI
+(SF-Monday0Thursday)
+Period 9: V B Monday PBI
+IV B Tuesday PBI
+V D Wednesday PBI
+IV D Thursday PBI
+III C Friday PBI
+
+Timetable for EKTA KAPLISH
+EKT:
+
+Teacher: JASLEEN KAUR
+JSL
+Period 1: V A Monday-Saturday PBI
+(SF-Monday07)
+Period 2: III D Monday-Saturday PBI
+(FF-Saturday0)
+Period 3: VI A Wednesday-Saturday
+(FF-MondayMonday7)
+Period 4: Free Period
+Period 5: IV E Monday PBI
+III A Tuesday PBI
+V A Wednesday PBI
+III D Thursday PBI
+Period 6: III E Monday-Saturday PBI
+(FF-SaturdayMonday)
+Period 7: IV E Monday-Saturday PBI
+(FF-FridayWednesday)
+Period 8: III A Monday-Saturday PBI
+(FF-Friday7)
+Period 9: III E Saturday PBI
+(FF-SaturdayMonday)
+
+Timetable for JASLEEN KAUR
+JSL:
+
+Teacher: PRIYANKA
+PRY
+Period 1: II A Monday-Wednesday PBI
+(FF-88)
+II E Thursday-Saturday PBI
+(FF-FridayTuesday)
+Period 2: VI C Monday-Saturday SST
+(FF-MondayMonday9)
+Period 3: Free Period
+Period 4: VII D Saturday
+(SF-MondayTuesday8)
+V B Tuesday,Thursday
+(SF-Monday0Saturday)
+Period 5: VI D Monday-Saturday SST
+(SF-MondayTuesday7)
+Period 6: I E Monday-Wednesday PBI
+(FF-90)
+I F Thursday-Saturday PBI
+(FF-89)
+Period 7: VI F Monday-Saturday SST
+(SF-MondayTuesdayFriday)
+Period 8: VII D Monday-Saturday SST
+(SF-MondayTuesday8)
+Period 9: Free Period
+
+Timetable for PRIYANKA
+PRY:
+
+Teacher: RIMAL
+RML
+Period 1: II B Monday-Wednesday PBI
+(FF-87)
+II C Thursday-Saturday PBI
+(FF-Friday0)
+Period 2: II D Monday-Wednesday PBI
+(FF-FridayMonday)
+I A Thursday-Saturday PBI
+(FF-9Thursday)
+Period 3: V D Monday,Wednesday GK
+(SF-Monday0Thursday)
+V F Thursday,Friday GK
+(SF-Monday0Tuesday)
+Period 4: I B Monday-Wednesday PBI
+(FF-9Wednesday)
+I C Thursday-Saturday PBI
+(FF-9Tuesday)
+Period 5: IX E Thursday-Saturday
+(SF-78)
+Period 6: I D Monday-Wednesday PBI
+(FF-9Monday)
+Period 7: Free Period
+Period 8: III F Monday-Saturday PBI
+(FF-SaturdayTuesday)
+Period 9: VII A Monday,Wednesday GK
+(FF-MondayTuesday0)
+V E Tuesday,Saturday GK
+(SF-Monday0Wednesday)
+III F Thursday PBI
+(FF-SaturdayTuesday)
+
+Timetable for RIMAL
+RML:
+
+Teacher: RITU RISHI
+RRS
+Period 1: XI C,H Monday-Saturday POL.SC
+( ROOM)
+Period 2: Free Period
+Period 3: X C Monday-Wednesday SST
+(FF-ThursdayFriday)
+VI D Thursday-Saturday
+(SF-MondayTuesday7)
+Period 4: X C Monday-Saturday SST
+(FF-ThursdayFriday)
+Period 5: Free Period
+Period 6: IX D Monday-Saturday SST
+(SF-77)
+Period 7: XII C,H Monday-Saturday POL.SC
+( ROOM)
+Period 8: X D Monday-Saturday SST
+(GF-Friday)
+Period 9: X D Thursday-Saturday SST
+(GF-Friday)
+
+Timetable for RITU RISHI
+RRS:
+
+Teacher: GEETA
+GTA
+Period 1: X F Wednesday-Saturday SST
+Period 2: X F Wednesday SST
+Period 3: IX E Monday-Saturday SST
+Period 4: X F Monday,Tuesday SST
+Period 5: VIII A Thursday-
+Period 6: IX A Monday-Saturday SST
+Period 7: X E Monday-Saturday SST
+Period 8: IX B Monday-Saturday SST
+Period 9: X F Monday,Tuesday SST
+X E Thursday-Saturday SST
+
+Timetable for GEETA
+GTA:
+
+Teacher: SANDEEP KAUR
+SND
+Period 1: IX C Thursday-Saturday SST
+Period 2: XI C,H Monday-Saturday ECO
+Period 3: X A Monday-Saturday SST
+Period 4: IX C Monday-Wednesday SST
+IV D Thursday-
+Period 5: Free Period
+Period 6: X B Monday-Wednesday SST
+(GF - Thursday)
+X A Thursday-Saturday SST
+Period 7: X B Monday-Saturday SST
+(GF - Thursday)
+Period 8: Free Period
+Period 9: IX F Monday-Saturday SST
+
+Timetable for SANDEEP KAUR
+SND:
+
+Teacher: PREETI GULATI
+PRT
+Period 1: VIII F Monday-Saturday SST
+(SF-7Saturday)
+Period 2: VII A Monday-Saturday SST
+(SF-MondayTuesday0)
+Period 3: VI E Monday-Wednesday
+(SF-MondayTuesdaySaturday)
+VIII E Thursday-Saturday SST
+(SF-7Friday)
+Period 4: Free Period
+Period 5: VIII E Monday-Wednesday SST
+(SF-7Friday)
+Period 6: VII E Monday-Saturday SST
+(SF-MondayTuesday9)
+Period 7: VI E Monday-Saturday SST
+(SF-MondayTuesdaySaturday)
+Period 8: VIII D Monday-Saturday SST
+(SF-7Thursday)
+Period 9: Free Period
+
+Timetable for PREETI GULATI
+PRT:
+
+Teacher: ETI ANAND
+ETI
+Period 1: VII B Monday-Saturday SST
+(SF-MondayTuesdayMonday)
+Period 2: V C Monday-Saturday EVS
+(SF-Monday0Friday)
+Period 3: VII C Monday-Saturday SST
+(SF-MondayTuesdayTuesday)
+Period 4: Free Period
+Period 5: V C Tuesday EVS
+(SF-Monday0Friday)
+IX C Wednesday,Thursday
+(FF-Thursday8)
+Period 6: VII F Monday-Saturday SST
+(SF-MondayWednesday0)
+Period 7: VI A Monday-Saturday SST
+(FF-MondayMonday7)
+Period 8: VI B Monday-Saturday SST
+(FF-MondayMonday8)
+Period 9: Free Period
+
+Timetable for ETI ANAND
+ETI:
+
+Teacher: ARUNA SHARMA
+ARS
+Period 1: X D Monday-Saturday HIN
+(GF-Friday)
+Period 2: X B Monday-Wednesday SKT
+(GF - Thursday)
+Period 3: X C Thursday-Saturday HIN
+(FF-ThursdayFriday)
+Period 4: VII C Monday-Wednesday
+(SF-MondayTuesdayTuesday)
+Period 5: IX A Monday-Wednesday (V)
+(FF-Thursday7)
+VIII B Thursday-Saturday SKT
+(FF-WednesdayThursday)
+Period 6: XII C,H Monday-Saturday E.HIN
+( ROOM)
+Period 7: IX A Monday-Saturday HIN
+(FF-Thursday7)
+Period 8: Free Period
+Period 9: X C Monday-Wednesday HIN
+(FF-ThursdayFriday)
+
+Timetable for ARUNA SHARMA
+ARS:
+
+Teacher: RITU SHARMA
+RSM
+Period 1: Free Period
+Period 2: IX C Monday-Wednesday HIN
+(FF-Thursday8)
+Period 3: X E Monday-Saturday HIN
+(GF-Saturday)
+Period 4: VIII C Monday-Saturday HIN
+(FF-WednesdayFriday)
+Period 5: VII A Monday-Saturday HIN
+(SF-MondayTuesday0)
+Period 6: Free Period
+Period 7: IX C Thursday-Saturday HIN
+(FF-Thursday8)
+Period 8: VIII B Monday-Saturday HIN
+(FF-WednesdayThursday)
+Period 9: IX E Monday-Saturday HIN
+(SF-78)
+
+Timetable for RITU SHARMA
+RSM:
+
+Teacher: MEENAKSHI GUPTA
+MNG
+Period 1: VII D Monday-Saturday HIN
+(SF-MondayTuesday8)
+Period 2: Free Period
+Period 3: VI D Monday-
+Period 4: X A Monday-Saturday HIN
+(GF-Wednesday)
+Period 5: VI F Monday-Saturday HIN
+(SF-MondayTuesdayFriday)
+Period 6: IX B Monday-Saturday HIN
+(FF-Thursday9)
+Period 7: VII E Monday-Saturday HIN
+(SF-MondayTuesday9)
+Period 8: Free Period
+Period 9: VIII F Monday-Saturday HIN
+(SF-7Saturday)
+
+Timetable for MEENAKSHI GUPTA
+MNG:
+
+Teacher: MANJINDER
+MJN
+Period 1: X F Monday,Tuesday HIN
+(GF-7)
+Period 2: VIII A Monday-Saturday HIN
+(FF-WednesdayWednesday)
+Period 3: Free Period
+Period 4: X F Wednesday-Saturday HIN
+(GF-7)
+IV B Monday
+(SF-Monday00)
+Period 5: IV A Monday,Saturday GK (SF-Monday0Monday)
+IX B Tuesday,Friday (V)
+(FF-77)
+V B Wednesday,Thursday DV
+(SF-Monday0Saturday)
+Period 6: VI E Monday-Saturday HIN
+(SF-MondayTuesdaySaturday)
+Period 7: Free Period
+Period 8: VII C Monday-Saturday HIN
+(SF-MondayTuesdayTuesday)
+Period 9: VI B Monday-Saturday HIN
+(FF-MondayMonday8)
+
+Timetable for MANJINDER
+MJN:
+
+Teacher: GURJEET KAUR
+GJK
+Period 1: VI C Monday-Saturday HIN
+(FF-MondayMonday9)
+Period 2: VI D Monday-Saturday HIN
+(SF-MondayTuesday7)
+Period 3: X B Monday-Saturday HIN
+(GF - Thursday)
+Period 4: IV E Monday,Friday,Saturday
+(FF-FridayWednesday)
+Period 5: XI C,H Monday-Saturday E.HIN
+( ROOM)
+Period 6: Free Period
+Period 7: Free Period
+Period 8: IX D Monday-Saturday HIN
+(SF-77)
+Period 9: VIII E Monday-Saturday HIN
+(SF-ThursdayFriday)
+
+Timetable for GURJEET KAUR
+GJK:
+
+Teacher: RITA
+RTA
+Period 1: IV B Monday-Saturday HIN
+(SF-FridayFriday)
+Period 2: VI B Monday-Wednesday SKT
+(FF-MondayMonday8)
+Period 3: VIII C Thursday-Saturday SKT
+(FF-WednesdayFriday)
+Period 4: VI E Monday-Wednesday SKT
+(SF-MondayTuesdaySaturday)
+VI C Thursday-Saturday SKT
+(FF-MondayMonday9)
+Period 5: VIII C Monday,Tuesday GK
+(FF-WednesdayFriday)
+IX A Thursday-Saturday
+(FF-Thursday7)
+Period 6: Free Period
+Period 7: III F Monday-Saturday HIN
+(FF-SaturdayTuesday)
+Period 8: VII B Monday-Wednesday SKT
+(SF-MondayTuesdayMonday)
+VII E Thursday-Saturday SKT
+(SF-MondayTuesday9)
+Period 9: VIII B Tuesday,Thursday GK
+(FF-WednesdayThursday)
+IV B Wednesday HIN
+(SF-Monday00)
+III F Friday HIN
+(FF-SaturdayTuesday)
+
+Timetable for RITA
+RTA:
+
+Teacher: BINDU
+BIN
+Period 1: VII F Wednesday-Saturday HIN
+(SF-MondayWednesday0)
+Period 2: VIII E Wednesday,Thursday GK
+(SF-7Friday)
+VII C Tuesday,Friday,Saturday SKT
+(SF-MondayTuesdayTuesday)
+Period 3: VII F Monday,Tuesday HIN
+VI F Thursday,Friday
+VI E
+Period 4: Free Period
+Period 5: VIII D Monday-Wednesday SKT
+(SF-7Thursday)
+VIII F Saturday GK
+(SF-7Saturday)
+Period 6: VI A Monday-Saturday HIN
+(FF-MondayMonday7)
+Period 7: VI D Monday-Wednesday SKT
+(SF-MondayTuesday7)
+Period 8: VI A Monday-Wednesday SKT
+(FF-MondayMonday7)
+VIII A Thursday-Saturday SKT
+(FF-80)
+Period 9: VII B Monday-Saturday HIN
+(SF-MondayTuesdayMonday)
+
+Timetable for BINDU
+BIN:
+
+Teacher: KANCHAN
+KCH
+Period 1: IX F Monday-Saturday HIN
+(SF-79)
+Period 2: VIII D Monday-Saturday HIN
+(SF-7Thursday)
+Period 3: Free Period
+Period 4: XI C Monday-Saturday SKT
+(FF-ThursdayMonday)
+Period 5: XII C Monday-Saturday SKT
+(FF-ThursdayTuesday)
+Period 6: Free Period
+Period 7: IX B Monday-Wednesday SKT
+(FF-Thursday9)
+VIII E Thursday-Saturday SKT
+(SF-7Friday)
+Period 8: IX A Thursday-Saturday SKT
+(FF-Thursday7)
+X C Monday-Wednesday SKT
+(FF-ThursdayFriday)
+Period 9: Free Period
+
+Timetable for KANCHAN
+KCH:
+
+Teacher: SHASTRI JI
+SHS
+Period 1: VI F Wednesday DV
+VI F Thursday-Saturday SKT
+Period 2: VII D Monday-Wednesday SKT
+VI B Thursday DV
+Period 3: VIII F Monday-Wednesday SKT
+VIII F Thursday GK
+Period 4: IV C Monday
+VI C Wednesday DV
+VI E Saturday DV
+VII E Tuesday,
+Period 5: IX B Monday
+VII F Thursday-Saturday SKT
+Period 6: X A Monday-Wednesday SKT
+IV E Thursday,Friday DV
+Period 7: IX C Monday-Wednesday SKT
+VI D Thursday DV
+IV B Friday,Saturday GK
+Period 8: VI C Wednesday,Saturday GK
+VII B Thursday,Friday GK
+Period 9: VII A Thursday-Saturday SKT
+
+Timetable for SHASTRI JI
+SHS:
+
+Teacher: POOJA
+Period 1: III A Monday HIN
+(FF-Friday7)
+V F Tuesday HIN
+(SF-Monday0Tuesday)
+Period 2: V D Monday-Saturday HIN
+(SF-Monday0Thursday)
+Period 3: IV D Monday-Saturday HIN
+(FF-FridayThursday)
+Period 4: III F Monday-Thursday
+(FF-SaturdayMonday)
+Period 5: Free Period
+Period 6: III A Monday-Saturday HIN
+(FF-Friday7)
+Period 7: V B Monday-Saturday HIN
+(SF-Monday0Saturday)
+Period 8: V F Monday-Saturday HIN
+(SF-Monday0Tuesday)
+Period 9: IV D Monday HIN
+(FF-FridayThursday)
+V D Tuesday HIN
+(SF-Monday0Thursday)
+V B Wednesday HIN
+(SF-Monday0Saturday)
+
+Timetable for POOJA:
+
+Teacher: KUSHBOO
+KSB
+Period 1: III C Monday-Saturday HIN
+(FF-Friday9)
+Period 2: III C Monday HIN
+(FF-Friday9)
+Period 3: IV E Monday-Saturday HIN
+(FF-FridayWednesday)
+Period 4: V B Monday,Wednesday
+(SF-Monday0Saturday)
+V D Saturday
+(SF-Monday0Thursday)
+IV A Thursday
+(SF-Monday0Monday)
+Period 5: IV A Tuesday HIN
+(SF-Monday0Monday)
+III B Thursday HIN
+(FF-Friday8)
+IV E Friday HIN
+(FF-FridayWednesday)
+III D Saturday HIN
+(FF-Saturday0)
+Period 6: III B Monday-Saturday HIN
+(FF-Friday8)
+Period 7: III D Monday-Saturday HIN
+(FF-Saturday0)
+Period 8: IV A Monday-Saturday HIN
+(SF-Monday0Monday)
+Period 9: Free Period
+
+Timetable for KUSHBOO
+KSB:
+
+Teacher: MEENU SOOD
+MNS
+Period 1: Free Period
+Period 2: III E Monday-Saturday HIN
+(FF-SaturdayMonday)
+Period 3: IV C Monday-Saturday HIN
+(FF-FridaySaturday)
+Period 4: V E Tuesday,Wednesday
+(SF-Monday0Wednesday)
+IV A Monday
+(SF-Monday0Monday)
+IV B
+Period 5: IV C Monday HIN
+(FF-FridaySaturday)
+V A Thursday HIN
+(SF-Monday07)
+V E Friday HIN
+(SF-Monday0Wednesday)
+V C Saturday HIN
+(SF-Monday0Friday)
+Period 6: V E Monday-Saturday HIN
+(SF-Monday0Wednesday)
+Period 7: III E Tuesday HIN
+(FF-SaturdayMonday)
+Period 8: V A Monday-Saturday HIN
+(SF-Monday07)
+Period 9: V C Monday-Saturday HIN
+(SF-Monday0Friday)
+
+Timetable for MEENU SOOD
+MNS:
+
+Teacher: MEENAKSHI SETH
+MNK
+Period 1: XI F Monday-Saturday CHEM
+(SF-70)
+Period 2: XI F Monday-Saturday CHEM
+(SF-70)
+Period 3: IX F Monday,Wednesday CHEM
+(SF-79)
+VI E Thursday,Friday
+(SF-MondayTuesdaySaturday)
+VI F Saturday
+(SF-MondayTuesdayFriday)
+Period 4: Free Period
+Period 5: XII E Monday-Saturday CHEM
+(FF-ThursdayWednesday)
+Period 6: XII E Monday-Saturday CHEM
+(FF-ThursdayWednesday)
+Period 7: X D Monday,Wednesday CHEM
+(GF-Friday)
+Period 8: X A Monday,Tuesday CHEM
+(GF-Wednesday)
+IX E Friday,Saturday CHEM
+(SF-78)
+Period 9: XI F Friday,Saturday EVS
+(SF-70)
+
+Timetable for MEENAKSHI SETH
+MNK:
+
+Teacher: SURINDER BABBAR
+SUB
+Period 1: X C Monday,Tuesday CHEM
+(FF-ThursdayFriday)
+X E Wednesday,Thursday CHEM
+(SF-Saturday)
+XI C, H Friday,Saturday EVS (MondayThursday)
+Period 2: Free Period
+Period 3: XI E Monday-Saturday CHEM
+(FF-Wednesday7)
+Period 4: XI E Monday-Saturday CHEM
+(FF-Wednesday7)
+Period 5: IX E Monday-Wednesday
+(SF-78)
+Period 6: XII G Monday-Saturday CHEM
+(SF-SaturdayFriday)
+Period 7: XII G Monday-Saturday CHEM
+(SF-SaturdayFriday)
+Period 8: XII E Thursday,Saturday EVS
+(FF-ThursdayWednesday)
+Period 9: IX D Monday,Tuesday CHEM
+(SF-77)
+IX B Friday,Saturday CHEM
+(FF-Thursday9)
+
+Timetable for SURINDER BABBAR
+SUB:
+
+Teacher: NAVNEET THAKUR
+NVN
+Period 1: XII F Monday-Saturday CHEM
+(SF-SaturdayThursday)
+Period 2: XII F Monday-Saturday CHEM
+(SF-SaturdayThursday)
+Period 3: IX C Friday,Saturday CHEM
+(FF-Thursday8)
+Period 4: XI D Tuesday,Wednesday EVS
+(FF-Wednesday8)
+VII D Monday,Thursday
+(SF-MondayTuesday8)
+Period 5: XI D Monday-Saturday CHEM
+(FF-Wednesday8)
+Period 6: XI D Monday-Saturday CHEM
+(FF-Wednesday8)
+Period 7: Free Period
+Period 8: Free Period
+Period 9: X F Thursday CHEM
+(GF-7)
+X B Friday,Saturday CHEM
+(GF - Thursday)
+Period 10: X F Wednesday CHEM
+(GF-7)
+IX A Friday,Saturday CHEM
+(FF-Thursday7)
+
+Timetable for NAVNEET THAKUR
+NVN:
+
+Teacher: RAMANDEEP KAUR
+RMN
+Period 1: XII D Monday-Saturday CHEM
+(FF-Thursday0)
+Period 2: XII D Monday-Saturday CHEM
+(FF-Thursday0)
+Period 3: Free Period
+Period 4: XI G Monday-Saturday CHEM
+(SF-7Monday)
+Period 5: XI G Monday-Saturday CHEM
+(SF-7Monday)
+Period 6: Free Period
+Period 7: Free Period
+Period 8: IX E Monday,Tuesday PHY
+(SF-78)
+V C Wednesday,Thursday GK
+(SF-Monday0Friday)
+IX F Friday,Saturday PHY
+(SF-79)
+Period 9: IX B Monday,Tuesday PHY
+(FF-Thursday9)
+IX D Wednesday,Thursday PHY
+(SF-77)
+IX C Friday,Saturday PHY
+(FF-Thursday8)
+
+Timetable for RAMANDEEP KAUR
+RMN:
+
+Teacher: JYOTI RAJPAL
+JYR
+Period 1: VI E Monday-Saturday SCI
+Period 2: VIII B Monday-Saturday SCI
+(FF-WednesdayThursday)
+Period 3: VII A Monday-Saturday SCI
+(SF-MondayTuesday0)
+Period 4: V D Tuesday,Wednesday
+(SF-Monday0Thursday)
+Period 5: Free Period
+Period 6: VI B Monday-Saturday SCI
+(FF-MondayMonday8)
+Period 7: VII F Monday-Saturday SCI
+(SF-MondayWednesday0)
+Period 8: III D Monday,Tuesday MT
+(FF-Saturday0)
+Period 9: III D Tuesday-Saturday MT
+(FF-Saturday0)
+
+Timetable for JYOTI RAJPAL
+JYR:
+
+Teacher: JASVIR SINGH
+JSV
+Period 1: XII G Monday-Saturday PHY
+(SF-SaturdayFriday)
+Period 2: XII G Monday-Saturday PHY
+(SF-SaturdayFriday)
+Period 3: Free Period
+Period 4: XII F Monday-Saturday PHY
+(SF-SaturdayThursday)
+Period 5: XII F Monday-Saturday PHY
+(SF-SaturdayThursday)
+Period 6: X F Monday,Tuesday PHY
+(GF-7)
+Period 7: XI F Monday-Saturday PHY
+(SF-70)
+Period 8: XI F Monday-Saturday PHY
+(SF-70)
+Period 9: Free Period
+
+Timetable for JASVIR SINGH
+JSV:
+
+Teacher: SATINDER KAUR
+Period 1: XI G Monday-Saturday PHY
+(SF-7Monday)
+Period 2: XI G Monday-Saturday PHY
+(SF-7Monday)
+Period 3: Free Period
+Period 4: XII D Monday-Saturday PHY
+(FF-Thursday0)
+Period 5: XII D Monday-Saturday PHY
+(FF-Thursday0)
+Period 6: X D Friday,Saturday PHY
+(GF-Friday)
+Period 7: Free Period
+Period 8: X E Monday,Tuesday PHY
+(GF-Saturday)
+X A Wednesday,Thursday PHY
+(GF-Wednesday)
+X C Friday,Saturday PHY
+(FF-ThursdayFriday)
+Period 9: IX A Monday,Tuesday PHY
+(FF-Thursday7)
+XII D Thursday,Friday EVS
+(FF-Thursday0)
+
+Timetable for SATINDER KAUR:
+
+Teacher: SARABJIT KAUR
+SBK
+Period 1: XI E Monday-Saturday PHY
+(FF-Wednesday7)
+Period 2: XI E Monday-Saturday PHY
+(FF-Wednesday7)
+Period 3: XII E Monday-Saturday PHY
+(FF-ThursdayWednesday)
+Period 4: XII E Monday-Saturday PHY
+(FF-ThursdayWednesday)
+Period 5: Free Period
+Period 6: X B Friday,Saturday PHY
+(GF - Thursday)
+Period 7: Free Period
+Period 8: XI D Monday-Saturday PHY
+(FF-Wednesday8)
+Period 9: XI D Monday-Saturday PHY
+(FF-Wednesday8)
+
+Timetable for SARABJIT KAUR
+SBK:
+
+Teacher: KAMALJIT KAUR
+KMJ
+Period 1: Free Period
+Period 2: XI D Monday-Saturday BIO
+(FF-Wednesday8)
+Period 3: XI D Monday-Saturday BIO
+(FF-Wednesday8)
+Period 4: IX B Monday,Tuesday BIO
+(FF-Thursday9)
+VII E Thursday
+IX D Friday,Saturday BIO
+(SF-77)
+Period 5: III F Wednesday DV
+(FF-SaturdayTuesday)
+Period 6: XII D Monday-Saturday BIO
+(FF-Thursday0)
+Period 7: XII D Monday-Saturday BIO
+(FF-Thursday0)
+Period 8: X B Wednesday,Thursday BIO
+(GF - Thursday)
+X F Friday,Saturday BIO
+(GF-7)
+Period 9: IX C Wednesday,Thursday BIO
+(FF-Thursday8)
+III F Saturday DV
+(FF-SaturdayTuesday)
+
+Timetable for KAMALJIT KAUR
+KMJ:
+
+Teacher: RAJINDER SINGH
+RAJ
+Period 1: IX A Monday,Tuesday BIO
+(FF-Thursday7)
+X C Wednesday,Thursday BIO
+(FF-ThursdayFriday)
+X E Friday,Saturday BIO
+(GF-Saturday)
+Period 2: Free Period
+Period 3: XII G Monday-Saturday BIO
+(SF-SaturdayFriday)
+Period 4: XII G Monday-Saturday BIO
+(SF-SaturdayFriday)
+Period 5: X A Friday,Saturday BIO
+(GF-Wednesday)
+VIII C Wednesday,Thursday
+(FF-WednesdayFriday)
+Period 6: X D Monday,Tuesday BIO
+(GF-Friday)
+Period 7: XI G Monday-Saturday BIO
+(SF-7Monday)
+Period 8: XI G Monday-Saturday BIO
+(SF-7Monday)
+Period 9: XII F Monday,Wednesday EVS
+(SF-SaturdayThursday)
+
+Timetable for RAJINDER SINGH
+RAJ:
+
+Teacher: GURPREET KAUR
+GRP
+Period 1: VII C Monday-Saturday SCI
+(SF-MondayTuesdayTuesday)
+Period 2: VI A Monday-Saturday SCI
+(FF-MondayMonday7)
+Period 3: VII E Monday-Saturday SCI
+(SF-MondayTuesday9)
+Period 4: VIII F Monday-Saturday SCI
+(SF-7Saturday)
+Period 5: Free Period
+Period 6: VIII D Monday-Saturday SCI
+(SF-7Thursday)
+Period 7: Free Period
+Period 8: IX F Monday,Tuesday BIO
+(SF-79)
+IX E Wednesday,Thursday BIO
+(SF-78)
+Period 9: XII G Tuesday,Wednesday EVS
+(SF-SaturdayFriday)
+VIII A Monday DV
+(FF-WednesdayWednesday)
+
+Timetable for GURPREET KAUR
+GRP:
+
+Teacher: NEERU SHARMA
+NRS
+Period 1: VIII A Monday-Saturday SCI
+(FF-WednesdayWednesday)
+Period 2: VII B Monday-Saturday SCI
+(SF-MondayTuesdayMonday)
+Period 3: Free Period
+Period 4: VI D Monday-Saturday SCI
+(SF-MondayTuesday7)
+Period 5: VII D Monday-Saturday SCI
+(SF-MondayTuesday8)
+Period 6: VIII C Monday-Saturday SCI
+(FF-WednesdayFriday)
+Period 7: VI C Monday-Saturday SCI
+(FF-MondayMonday9)
+Period 8: VIII A Wednesday DV
+Period 9: Free Period
+
+Timetable for NEERU SHARMA
+NRS:
+
+Teacher: GAURI
+Period 1: IV E Monday-Saturday EVS
+(FF-FridayWednesday)
+Period 2: III B Monday-Saturday EVS
+(FF-Friday8)
+Period 3: VI C Monday,Tuesday
+(FF-MondayMonday9)
+Period 4: IV A Wednesday
+(SF-MondayMonday7)
+Period 5: IV B Monday EVS
+IV E Tuesday EVS
+III B Wednesday EVS
+III F Thursday EVS
+V A Friday EVS
+IX B
+Period 6: III F Monday-Saturday EVS
+(FF-SaturdayTuesday)
+Period 7: V A Monday-Saturday EVS
+(SF-Monday07)
+Period 8: IV B Monday-Saturday EVS
+(SF-Monday00)
+Period 9: Free Period
+
+Timetable for GAURI:
+
+Teacher: SHILPI
+SHP
+Period 1: V D Monday-Saturday EVS
+(SF-Monday0Thursday)
+Period 2: IV D Monday-Saturday EVS
+(FF-FridayThursday)
+Period 3: III E Monday-Saturday EVS
+(FF-SaturdayMonday)
+Period 4: III B Tuesday
+(FF-Friday8)
+III D Thursday-Saturday
+(FF-Saturday0)
+Period 5: Free Period
+Period 6: Free Period
+Period 7: III C Monday-Saturday EVS
+(FF-Friday9)
+Period 8: IV E Monday-Saturday MT
+(FF-FridayWednesday)
+Period 9: V D Monday EVS
+IV D Wednesday EVS
+IV E Thursday MT
+III E Friday EVS
+III C Saturday EVS
+
+Timetable for SHILPI
+SHP:
+
+Teacher: SONIA KHANNA
+SNK
+Period 1: IV A Thursday EVS
+(SF-Monday0Monday)
+III D Monday-Wednesday,Friday,Saturday EVS
+(FF-Saturday0)
+Period 2: V B Monday-Saturday EVS
+(SF-Monday0Saturday)
+Period 3: III A Monday-Saturday EVS
+(FF-Friday7)
+Period 4: III E Wednesday
+(FF-SaturdayMonday)
+III C Thursday-Saturday
+(FF-Friday9)
+Period 5: III A Monday EVS
+(FF-Friday7)
+IV C Tuesday EVS
+(FF-FridaySaturday)
+Period 6: Free Period
+Period 7: IV A Monday-Saturday EVS
+(SF-Monday0Monday)
+Period 8: III D Wednesday,Thursday EVS
+(FF-Saturday0)
+V B Saturday EVS
+(SF-Monday0Saturday)
+Period 9: IV C Monday-Saturday EVS
+(FF-FridaySaturday)
+
+Timetable for SONIA KHANNA
+SNK:
+
+Teacher: KAWALJIT KAUR
+KWL
+Period 1: VIII E Monday,Wednesday-Saturday SCI
+(SF-7Friday)
+Period 2: III F Monday-Saturday MT
+(FF-SaturdayTuesday)
+Period 3: III F Monday MT
+(FF-SaturdayTuesday)
+XII J Thursday,Friday EVS
+(SF-Saturday8)
+V F Saturday EVS
+(SF-Monday0Tuesday)
+Period 4: VIII E Tuesday SCI
+IV C Thursday
+III A Monday,Friday,
+Period 5: V F Monday-Saturday EVS
+(SF-Monday0Tuesday)
+Period 6: Free Period
+Period 7: V E Monday-Saturday EVS
+(SF-Monday0Wednesday)
+Period 8: VI F Monday-Saturday SCI
+Period 9: V E Monday EVS
+(SF-Monday0Wednesday)
+
+Timetable for KAWALJIT KAUR
+KWL:
+
+Teacher: NEERAJ MAHAJAN
+NRJ
+Period 1: Free Period
+Period 2: Free Period
+Period 3: XI C Monday-Saturday H.SC
+(FF-ThursdayMonday)
+Period 4: XII C Monday-Saturday H.SC
+(FF-ThursdayTuesday)
+Period 5: Free Period
+Period 6: XII I Tuesday,Wednesday EVS
+(SF-Saturday7)
+XI G Thursday,Saturday EVS
+(SF-7Monday)
+Period 7: XI I Monday,Tuesday EVS
+(SF-7Tuesday)
+Period 8: XII A Thursday,Friday EVS
+(FF-WednesdaySaturday)
+Period 9: Free Period
+
+Timetable for NEERAJ MAHAJAN
+NRJ:
+
+Teacher: ANUBHAV
+ANB
+Period 1: XII A Monday-Saturday A/C
+(FF-WednesdaySaturday)
+Period 2: XII A Monday-Saturday A/C
+(FF-WednesdaySaturday)
+Period 3: Free Period
+Period 4: XII J Monday-Saturday A/C
+(SF-Saturday8)
+Period 5: XII J Monday-Saturday A/C
+(SF-Saturday8)
+Period 6: Free Period
+Period 7: XII I Monday-Saturday BS
+(SF-Saturday7)
+Period 8: XI I Monday-Saturday BS
+(SF-7Tuesday)
+Period 9: Free Period
+
+Timetable for ANUBHAV
+ANB:
+
+Teacher: NEERU VERMA
+NRV
+Period 1: XII B Monday-Saturday ECO
+(FF-Wednesday9)
+Period 2: XII B Monday-Saturday ECO
+(FF-Wednesday9)
+Period 3: Free Period
+Period 4: XI C,H Monday-Saturday SOC
+( ROOM)
+Period 5: XII C,H Monday-Saturday SOC
+( ROOM)
+Period 6: IX E Wednesday-Friday ECO
+(SF-78)
+Period 7: IX F Monday,Tuesday,Saturday ECO
+(SF-79)
+Period 8: XII C,H Monday-Saturday ECO
+( ROOM)
+Period 9: Free Period
+
+Timetable for NEERU VERMA
+NRV:
+
+Teacher: SARPREET KAUR
+SPT
+Period 1: Free Period
+Period 2: XII I Monday-Saturday A/C
+(SF-Saturday7)
+Period 3: XII I Monday-Saturday A/C
+(SF-Saturday7)
+Period 4: XII I Monday-Saturday ECO
+(SF-Saturday7)
+Period 5: XII B Monday-Saturday A/C
+(FF-Wednesday9)
+Period 6: XII B Monday-Saturday A/C
+(FF-Wednesday9)
+Period 7: Free Period
+Period 8: Free Period
+Period 9: XII I Monday-Saturday ECO
+(SF-Saturday7)
+
+Timetable for SARPREET KAUR
+SPT:
+
+Teacher: PANKAJ
+PKJ
+Period 1: Free Period
+Period 2: XI A Monday-Saturday A/C
+(FF-ThursdaySaturday)
+Period 3: XI A Monday-Saturday A/C
+(FF-ThursdaySaturday)
+Period 4: XI I Monday-Saturday A/C
+(SF-7Tuesday)
+Period 5: XI I Monday-Saturday A/C
+(SF-7Tuesday)
+Period 6: Free Period
+Period 7: XII B Monday-Saturday BS
+(FF-Wednesday9)
+Period 8: Free Period
+Period 9: XII J Monday-Saturday BS
+(SF-Saturday8)
+
+Timetable for PANKAJ
+PKJ:
+
+Teacher: SANGEETA KANWAL
+SGK
+Period 1: XII J Monday-Friday ECO
+(SF-Saturday8)
+Period 2: XII J Monday-Saturday ECO
+(SF-Saturday8)
+Period 3: VI B Monday,Tuesday
+(FF-MondayMonday8)
+XII J Saturday ECO
+(SF-Saturday8)
+Period 4: IV B Wednesday
+(SF-Monday00)
+Period 5: XII A Monday-Saturday ECO
+(FF-WednesdaySaturday)
+Period 6: XII A Monday-Saturday ECO
+(FF-WednesdaySaturday)
+Period 7: XI A Monday-Saturday ECO
+(FF-ThursdaySaturday)
+Period 8: XI A Monday-Saturday ECO
+(FF-ThursdaySaturday)
+Period 9: Free Period
+
+Timetable for SANGEETA KANWAL
+SGK:
+
+Teacher: SALONI
+SLN
+Period 1: IX A Wednesday,Friday,Saturday ECO
+(FF-Thursday7)
+Period 2: XI I Monday-Saturday ECO
+(SF-7Tuesday)
+Period 3: XI I Monday-Saturday ECO
+(SF-7Tuesday)
+Period 4: IX D Thursday ECO
+(SF-77)
+VII F Tuesday
+(SF-MondayWednesday0)
+III E Friday,Saturday
+(FF-SaturdayMonday)
+Period 5: VII E Tuesday GK
+(SF-MondayTuesday9)
+VI A Friday,Saturday GK
+(FF-MondayMonday7)
+IX D Monday,Wednesday
+(SF-77)
+Period 6: X D Wednesday,Thursday ECO
+(GF-Friday)
+X F Friday,Saturday ECO
+(GF-7)
+Period 7: XII H Monday,Tuesday EVS
+(SF-SaturdaySaturday)
+Period 8: VII E Wednesday GK
+(SF-MondayTuesday9)
+X A Friday,Saturday ECO
+(GF-Wednesday)
+Period 9: VI D Wednesday,Thursday GK
+(SF-MondayTuesday7)
+IX D Friday,Saturday ECO
+(SF-77)
+
+Timetable for SALONI
+SLN:
+
+Teacher: NIDHI
+NDH
+Period 1: X E Monday,Tuesday ECO
+(GF-Saturday)
+X C Friday,Saturday ECO
+(FF-ThursdayFriday)
+Period 2: IV C Friday,Saturday DV
+(FF-FridaySaturday)
+Period 3: IX C Monday-Wednesday ECO
+(FF-Thursday8)
+VII F Friday,Saturday GK
+(SF-MondayWednesday0)
+Period 4: VI B Monday,Tuesday GK
+(FF-MondayMonday8)
+III B Wednesday
+(FF-Friday8)
+IX B Thursday-Saturday ECO
+(FF-Thursday9)
+Period 5: Free Period
+Period 6: XI A Monday-Saturday BS
+(FF-ThursdaySaturday)
+Period 7: VII D Wednesday,Thursday GK
+(SF-MondayTuesday8)
+XI H Monday,Saturday EVS
+(SF-7Wednesday)
+Period 8: X B Monday,Tuesday ECO
+(GF - Thursday)
+Period 9: XII A Monday-Saturday BS
+(FF-WednesdaySaturday)
+
+Timetable for NIDHI
+NDH:
+
+Teacher: KIRAN CHALGA
+KIR
+Period 1: XII C Monday-Saturday DP
+Period 2: XII C Monday-Saturday DP
+Period 3: XII H Monday-Saturday DP
+Period 4: XII H Monday-Saturday DP
+Period 5: Free Period
+Period 6: XI C Monday-Saturday DP
+Period 7: Free Period
+Period 8: XI H Monday-Saturday DP
+Period 9: Free Period
+
+Timetable for KIRAN CHALGA
+KIR:
+
+Teacher: SANDEEP KAUR
+SDP
+Period 1: III B Monday,Tuesday DP
+Period 2: III C Tuesday,Wednesday DP
+VIII E Friday,Saturday DP
+Period 3: III F Wednesday,Thursday DP
+Period 4: VI F Monday,Tuesday DP
+VIII D Wednesday,Thursday DP
+VI B Friday,Saturday DP
+Period 5: VII F Monday,Tuesday DP
+VII E Wednesday,Thursday DP
+IV B Friday,Saturday DP
+Period 6: IX E Monday,Tuesday DP
+Period 7: VII C Wednesday,Thursday DP
+VI D Friday,Saturday DP
+Period 8: VI C Monday,Tuesday DP
+VII A Friday,Saturday DP
+Period 9: IX C Monday,Tuesday DP
+IX B Wednesday,Thursday DP
+IV D Friday,Saturday DP
+
+Timetable for SANDEEP KAUR
+SDP:
+
+Teacher: YASHMEET KAUR
+YSH
+Period 1: IV A Monday,Tuesday DP
+III A Wednesday,Thursday DP
+V F Friday,Saturday DP
+Period 2: VII C Wednesday,Thursday GK
+Period 3: IX D Monday,Tuesday DP
+VII B Wednesday,Thursday DP
+VIII F Friday,Saturday DP
+Period 4: VI E Thursday,Friday DP
+V F Monday,Tuesday
+V C
+Period 5: V E Monday,Tuesday DP
+IV E Wednesday,Saturday DP
+V D Thursday,Friday DP
+Period 6: Free Period
+Period 7: VII D Friday,Saturday DP
+Period 8: VIII A Monday,Tuesday DP
+IX F Wednesday,Thursday DP
+VI A Friday,Saturday DP
+Period 9: VIII C Monday,Tuesday DP
+IX A Wednesday,Thursday DP
+VIII B Friday,Saturday DP
+
+Timetable for YASHMEET KAUR
+YSH:
+
+Teacher: JYOTI GUPTA
+JYG
+Period 1: UKG A Monday DP
+UKG B Tuesday DP
+UKG C Wednesday DP
+UKG D Thursday DP
+UKG E Friday DP
+Period 2: II E Tuesday DP
+II C Wednesday DP
+II A Thursday DP
+II B Friday DP
+II D Saturday DP
+Period 3: LKG A Monday DP
+LKG B Tuesday DP
+V A Friday,Saturday GK
+Period 4: III B Monday
+IV C Friday,
+Period 5: Free Period
+Period 6: I A Monday DP
+I F Tuesday DP
+I C Wednesday DP
+I B Thursday DP
+I D Friday DP
+I E Saturday DP
+Period 7: IV C Monday,Thursday DP
+V C Tuesday,Wednesday DP
+III E Friday,Saturday DP
+Period 8: VI E Wednesday,Thursday GK
+III D Friday,Saturday DP
+Period 9: V A Monday,Tuesday DP
+V B Friday,Saturday DP
+
+Timetable for JYOTI GUPTA
+JYG:
+
+Teacher: PRIYA SIDHU
+PRS
+Period 1: XI C Monday-Saturday MV
+Period 2: Free Period
+Period 3: VI A Monday,
+Period 4: VII F Monday
+IV B Tuesday
+IV E Wednesday,Thursday
+XII C Friday,Saturday EVS
+Period 5: XI A Monday,Wednesday EVS
+IX F Thursday
+III B Friday DV
+V A Saturday DV
+Period 6: Free Period
+Period 7: XII C Monday-Saturday MV
+Period 8: XII B Tuesday,Wednesday EVS
+Period 9: XI E Monday,Tuesday EVS
+V A Thursday DV
+III B Wednesday DV
+
+Timetable for PRIYA SIDHU
+PRS:
+
+Teacher: HARPREET SINGH
+HRS
+Period 1: Free Period
+Period 2: Free Period
+Period 3: Free Period
+Period 4: VII E Monday,Wednesday,Saturday
+V C Friday
+V D Thursday
+IV D
+Period 5: IX C Friday,Saturday
+IX D Thursday
+VIII F Monday,
+Period 6: Free Period
+Period 7: Free Period
+Period 8: Free Period
+Period 9: Free Period
+
+Timetable for HARPREET SINGH
+HRS:
+
+Teacher: VASU
+VSU
+Period 1: V F Wednesday,Thursday MV
+III A Friday,Saturday GK
+Period 2: IV C Monday,Tuesday MV
+V F Thursday DV
+Period 3: XI C Monday,Tuesday EVS
+V F Wednesday DV
+Period 4: III C Monday-Wednesday
+V A Thursday-
+Period 5: III F Monday,Tuesday MV
+V E Wednesday,Saturday MV
+V C Thursday,Friday MV
+Period 6: Free Period
+Period 7: IV B Monday,Tuesday MV
+IV B Wednesday,Thursday DV
+Period 8: V C Monday,Tuesday DV
+VI A Thursday DV
+Period 9: III B Monday,Thursday GK
+IV E Tuesday,Wednesday MV
+III B Friday,Saturday MV
+
+Timetable for VASU
+VSU:
+
+Teacher: HARPREET KAUR
+HPT
+Period 1: V E Wednesday DV
+IV A Friday,Saturday MV
+Period 2: Free Period
+Period 3: V A Monday,Tuesday MV
+VI C Wednesday-
+Period 4: V E Monday
+III A Tuesday
+IV D Wednesday
+III B Thursday-
+Period 5: III D Tuesday,Wednesday MV
+V B Friday,Saturday MV
+V E Thursday DV
+Period 6: IV D Monday,Tuesday MV
+Period 7: III E Monday,Wednesday MV
+III A Friday,Saturday MV
+Period 8: III C Monday,Tuesday GK
+III E Wednesday DV
+Period 9: III C Monday,Thursday MV
+III E Tuesday DV
+V D Friday,Saturday MV
+
+Timetable for HARPREET KAUR
+HPT:
+
+Teacher: RACHNA
+RCH
+Period 1: XII C Monday-Saturday PE
+Period 2: Free Period
+Period 3: Free Period
+Period 4: Free Period
+Period 5: VI A Monday,Tuesday PE
+Period 6: LUNCH
+Period 7: VII C Friday,Saturday PE
+Period 8: VII A Monday PE
+Period 9: VII A Tuesday PE
+VIII A Wednesday,Thursday PE
+
+Timetable for RACHNA
+RCH:
+
+Teacher: LOVEJIT KAUR
+LVJ
+Period 1: Free Period
+Period 2: Free Period
+Period 3: VII B Monday,Tuesday PE
+Period 4: VI C Monday,Tuesday PE
+VI B Wednesday,Thursday PE
+Period 5: Free Period
+Period 6: LUNCH
+Period 7: XI C Monday-Saturday PE
+Period 8: Free Period
+Period 9: VIII B Monday,Wednesday PE
+VIII C Friday,Saturday PE
+
+Timetable for LOVEJIT KAUR
+LVJ:
+
+Teacher: BALWINDER SINGH
+BLS
+Period 1: XII H Monday-Saturday PE
+Period 2: Free Period
+Period 3: Free Period
+Period 4: IX D Monday-Wednesday PE
+Period 5: VIII F Wednesday,Thursday PE
+VIII F
+Period 6: LUNCH
+Period 7: VIII E Tuesday,Wednesday PE
+Period 8: Free Period
+Period 9: XI H Monday-Saturday PE
+
+Timetable for BALWINDER SINGH
+BLS:
+
+Teacher: GAGANDEEP SINGH
+GGD
+Period 1: Free Period
+Period 2: Free Period
+Period 3: VII F Wednesday,Thursday PE
+Period 4: VIII D Monday,Tuesday PE
+IX E Thursday-Saturday PE
+Period 5: LUNCH
+Period 6: VI F Wednesday,Thursday PE
+Period 7: VII D Monday,Tuesday PE
+Period 8: VII E Monday,Tuesday PE
+VI E Friday,Saturday PE
+Period 9: VI D Friday,Saturday PE
+
+Timetable for GAGANDEEP SINGH
+GGD:
+
+Teacher: SARABJIT SINGH
+SRB
+Period 1: Free Period
+Period 2: X F Thursday-Saturday PE
+Period 3: X D Monday-Wednesday PE
+Period 4: Free Period
+Period 5: LUNCH
+Period 6: X E Thursday-Saturday PE
+Period 7: IX F Wednesday,Thursday,Friday PE
+Period 8: Free Period
+Period 9: Free Period
+
+Timetable for SARABJIT SINGH
+SRB:
+
+Teacher: SUNIL KUMAR
+SUL
+Period 1: III B Wednesday-Friday PE
+Period 2: III C Thursday-Saturday PE
+Period 3: III F Tuesday,Friday,Saturday PE
+Period 4: Free Period
+Period 5: LUNCH
+Period 6: III D Monday-Wednesday PE
+IV D Thursday-Saturday PE
+Period 7: III A Monday,Tuesday,Thursday PE
+IV C Wednesday,Friday,Saturday PE
+Period 8: Free Period
+Period 9: IV A Monday-Wednesday PE
+IV B Thursday-Saturday PE
+
+Timetable for SUNIL KUMAR
+SUL:
+
+Teacher: SHELPI
+SHP
+Period 1: V E Thursday-Saturday PE
+Period 2: V F Monday-Wednesday PE
+Period 3: V D Thursday-Saturday PE
+Period 4: IV B
+Period 5: LUNCH
+Period 6: IV E Monday-Wednesday PE
+Period 7: V C Thursday-Saturday PE
+Period 8: V B Monday-Wednesday PE
+III E Thursday-Saturday PE
+Period 9: V A Wednesday,Friday,Saturday PE
+
+Timetable for SHELPI
+SHP:
+
+Teacher: AMANDEEP
+AMD (NCC)
+Period 1: III A Tuesday DV
+III D Thursday DV
+Period 2: NCC WORK
+Period 3: Free Period
+Period 4: III E Monday,Tuesday,Thursday
+III F Friday,Saturday
+IV C
+Period 5: III D Monday,Friday GK
+III A Wednesday DV
+IV E Thursday GK
+Period 6: IV D Wednesday GK
+III D Thursday DV
+IV E Saturday GK
+
+LUNCH
+Period 7: LUNCH
+Period 8: III C Thursday,Friday DV
+Period 9: IV D Tuesday GK
+III E Monday,Thursday GK
+
+Timetable for AMANDEEP
+AMD (NCC):
+
+Teacher: GURSIMRAN
+GRS
+Period 1: Free Period
+Period 2: NCC WORK
+Period 3: V D Tuesday DV
+Period 4: IV D Monday
+III A Wednesday,Thursday
+VI F Friday,Saturday GK
+Period 5: V D Wednesday DV
+III F Friday,Saturday GK
+XII H Monday,Tuesday EVS
+Period 6: LUNCH
+Period 7: IV D Thursday,Friday DV
+Period 8: Free Period
+Period 9: Free Period
+
+Timetable for GURSIMRAN
+GRS:
+
+Teacher: MANDEEP KUMAR
+MAN
+Period 1: VI F Monday,Tuesday CS
+Period 2: VI B Friday,Saturday CS
+Period 3: VI F Monday-Wednesday
+IX F Thursday-Saturday CS
+Period 4: XII C Monday-Wednesday CS
+Period 5: X A Monday-Wednesday CS
+VII E Friday,Saturday CS
+Period 6: X E Monday-Wednesday CS
+XII I Thursday-Saturday CS
+Period 7: IX B Thursday-Saturday CS
+Period 8: VIII F Monday,Friday CS
+XII H Tuesday-Thursday CS
+Period 9: XI F Monday-Wednesday CS
+XII F Thursday-Saturday CS
+
+Timetable for MANDEEP KUMAR
+MAN:
+
+Teacher: GAGANDEEP KAUR
+GGN
+Period 1: Free Period
+Period 2: X B Thursday-Saturday CS
+Period 3: XII J Monday-Wednesday CS
+XI C Thursday-Saturday CS
+Period 4: IX E Monday-Wednesday CS
+X D Thursday-Saturday CS
+Period 5: IX C Monday,Tuesday
+VI A Wednesday,Thursday CS
+IX F Friday,
+Period 6: XI G Monday-Wednesday CS
+Period 7: XI I Thursday-Saturday CS
+Period 8: XII A Monday-Wednesday CS
+VI C Thursday,Friday CS
+Period 9: XII D Monday-Wednesday CS
+XII G Thursday-Saturday CS
+
+Timetable for GAGANDEEP KAUR
+GGN:
+
+Teacher: GURPREET KAUR
+GPT
+Period 1: VII F Monday,Tuesday CS
+Period 2: X F Monday,Tuesday CS
+IX C Thursday-Saturday CS
+Period 3: IX A Monday-Wednesday CS
+IX D Thursday-Saturday CS
+Period 4: V F Wednesday
+XI D Thursday-Saturday CS
+Period 5: X C Monday-Wednesday CS
+XI A Thursday-Saturday CS
+Period 6: X F Thursday CS
+Period 7: VIII B Monday,Wednesday CS
+XI H Tuesday,Friday CS
+Period 8: XII E Monday-Wednesday CS
+XII B,C Thursday-Saturday CS
+Period 9: VI D Monday,Tuesday CS
+XI E Thursday-Saturday CS
+
+Timetable for GURPREET KAUR
+GPT:
+
+Teacher: SHAFALI
+SHF
+Period 1: XI C Monday,Tuesday CS (MondayMonday)
+XI H Wednesday,Thursday CS
+Period 2: VII D Friday,Saturday CS
+Period 3: I F Monday CS
+V A Wednesday,Thursday CS
+VII B Friday,Saturday CS
+Period 4: V A Monday-Wednesday
+VII F Thursday
+II E
+Period 5: V D Monday,Tuesday CS
+IV A Wednesday,Thursday CS
+IV C Friday,Saturday CS
+Period 6: III D Friday,Saturday CS
+Period 7: IV D Tuesday,Wednesday CS
+Period 8: VI E Monday,Tuesday CS
+III C Wednesday,Saturday CS
+V B Thursday,Friday CS
+Period 9: VIII A Tuesday,Saturday CS
+VIII C Wednesday,Thursday CS
+IV E Monday,Friday CS
+
+Timetable for SHAFALI
+SHF:
+
+Teacher: ANURADHA
+ANU
+Period 1: II C Monday CS
+II D Tuesday CS
+II B Thursday CS
+I B Friday CS
+II A Saturday CS
+Period 2: VIII E Monday,Tuesday CS
+I A Wednesday CS
+I C Thursday CS
+V F Friday,Saturday CS
+Period 3: I D Tuesday CS
+I E Saturday CS
+Period 4: III D Monday-Wednesday
+VIII D Saturday CS
+VII F
+Period 5: III B Monday,Saturday CS
+III A Thursday,Friday CS
+IV B Tuesday,Wednesday CS
+Period 6: Free Period
+Period 7: VII C Monday,Tuesday CS
+Period 8: III E Monday,Tuesday CS
+VII A Wednesday,Thursday CS
+V C Friday,Saturday CS
+Period 9: III F Monday,Tuesday CS
+V E Wednesday,Thursday CS
+VIII D Friday CS
